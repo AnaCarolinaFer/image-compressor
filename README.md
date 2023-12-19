@@ -30,7 +30,6 @@ Com o objetivo de verificar e analisar as vantagens da concorrência dentro do p
 
 # 📁 Acesso ao projeto
 
-**Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
 Você pode acessar o código fonte do projeto ou baixá-lo.
 
 # 🛠️ Abrir e rodar o projeto
