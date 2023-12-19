@@ -34,7 +34,6 @@ Você pode acessar o código fonte do projeto ou baixá-lo.
 
 # 🛠️ Abrir e rodar o projeto
 
-**Apresente as instruções necessárias para abrir e executar o projeto**
 Após baixar o projeto, você pode abrir o terminal e acessar o a pasta raíz do projeto. Após isso, é necessário compilar os arquivos dos algoritmos, utilizando o comando:
     `javac <nomeDoPrograma.java>`
 
